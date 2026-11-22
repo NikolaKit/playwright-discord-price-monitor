@@ -28,7 +28,7 @@ Setup:
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/NikolaKit/playwright-discord-price-monitor.git]
+&#x20;  git clone \[https://github.com/NikolaKit/playwright-discord-price-monitor.git
 
 &#x20;  cd playwright-discord-price-monitor
 
@@ -40,7 +40,7 @@ Setup:
 
 \-- Create a .env file in the root directory:
 
-DISCORD\_WEBHOOK\_URL=\[https://discord.com/api/webhooks/your\_webhook\_here](https://discord.com/api/webhooks/your\_webhook\_here)
+DISCORD\_WEBHOOK\_URL=https://discord.com/api/webhooks/your\_webhook\_here
 
 
 
