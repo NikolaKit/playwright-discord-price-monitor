@@ -28,7 +28,7 @@ Setup:
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/NikolaKit/playwright-discord-price-monitor.git
+&#x20;  git clone https://github.com/NikolaKit/playwright-discord-price-monitor.git
 
 &#x20;  cd playwright-discord-price-monitor
 
